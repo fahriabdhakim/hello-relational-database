@@ -1,0 +1,20 @@
+{
+  "name": "database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bookshelf": "^0.12.1",
+    "express-generator": "^4.15.5",
+    "knex": "^0.14.2",
+    "moment": "^2.20.1",
+    "mysql": "^2.15.0",
+    "node-mysql": "^0.4.2",
+    "save": "^2.3.2"
+  }
+}
